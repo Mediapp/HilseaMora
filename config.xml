@@ -50,16 +50,16 @@
     -->
 
     <!-- Define app icon for each platform. -->
-    <icon src="C://Users/medicolamora/Desktop/Franklin/HilseaMora/images/icon.png" />
-    <icon src="C://Users/medicolamora/Desktop/Franklin/HilseaMora/images/icon-36-ldpi.png"   gap:platform="android"    gap:density="ldpi" />
-    <icon src="C://Users/medicolamora/Desktop/Franklin/HilseaMora/images/icon-48-mdpi.png"   gap:platform="android"    gap:density="mdpi" />
-    <icon src="C://Users/medicolamora/Desktop/Franklin/HilseaMora/images/icon-72-hdpi.png"   gap:platform="android"    gap:density="hdpi" />
-    <icon src="C://Users/medicolamora/Desktop/Franklin/HilseaMora/images/icon-96-xhdpi.png"  gap:platform="android"    gap:density="xhdpi" />
-    <icon src="C://Users/medicolamora/Desktop/Franklin/HilseaMora/images/icon-80.png"     gap:platform="blackberry" />
-    <icon src="C://Users/medicolamora/Desktop/Franklin/HilseaMora/images/icon-80.png"     gap:platform="blackberry" gap:state="hover"/>
-    <icon src="C://Users/medicolamora/Desktop/Franklin/HilseaMora/images/icon-64.png"          gap:platform="webos" />
-    <icon src="C://Users/medicolamora/Desktop/Franklin/HilseaMora/images/icon-48.png"  gap:platform="winphone" />
-    <icon src="C://Users/medicolamora/Desktop/Franklin/HilseaMora/images/icon-173.png" gap:platform="winphone"   gap:role="background" />
+    <icon src="C://Users/medicolamora/Desktop/Franklin/HilseaMora/images/icon107.png" />
+    <icon src="C://Users/medicolamora/Desktop/Franklin/HilseaMora/images/icon107.png"   gap:platform="android"    gap:density="ldpi" />
+    <icon src="C://Users/medicolamora/Desktop/Franklin/HilseaMora/images/icon107.png"   gap:platform="android"    gap:density="mdpi" />
+    <icon src="C://Users/medicolamora/Desktop/Franklin/HilseaMora/images/icon107.png"   gap:platform="android"    gap:density="hdpi" />
+    <icon src="C://Users/medicolamora/Desktop/Franklin/HilseaMora/images/icon107.png"  gap:platform="android"    gap:density="xhdpi" />
+    <icon src="C://Users/medicolamora/Desktop/Franklin/HilseaMora/images/icon107.png"     gap:platform="blackberry" />
+    <icon src="C://Users/medicolamora/Desktop/Franklin/HilseaMora/images/icon107.png"     gap:platform="blackberry" gap:state="hover"/>
+    <icon src="C://Users/medicolamora/Desktop/Franklin/HilseaMora/images/icon107.png"          gap:platform="webos" />
+    <icon src="C://Users/medicolamora/Desktop/Franklin/HilseaMora/images/icon107.png"  gap:platform="winphone" />
+    <icon src="C://Users/medicolamora/Desktop/Franklin/HilseaMora/images/icon107.png" gap:platform="winphone"   gap:role="background" />
 
     <!-- Define app splash screen for each platform. -->
     <gap:splash src="C://Users/medicolamora/Desktop/Franklin/HilseaMora/images/screen-ldpi-portrait.png"  gap:platform="android" gap:density="ldpi" />
@@ -67,10 +67,7 @@
     <gap:splash src="C://Users/medicolamora/Desktop/Franklin/HilseaMora/images/screen-hdpi-portrait.png"  gap:platform="android" gap:density="hdpi" />
     <gap:splash src="C://Users/medicolamora/Desktop/Franklin/HilseaMora/images/screen-xhdpi-portrait.png" gap:platform="android" gap:density="xhdpi" />
     <gap:splash src="C://Users/medicolamora/Desktop/Franklin/HilseaMora/images/screen-225.png"         gap:platform="blackberry" />
-    <gap:splash src="C://Users/medicolamora/Desktop/Franklin/HilseaMora/images/screen-iphone-portrait.png"    gap:platform="ios"     width="320" height="480" />
-    <gap:splash src="C://Users/medicolamora/Desktop/Franklin/HilseaMora/images/screen-iphone-portrait-2x.png" gap:platform="ios"     width="640" height="960" />
-    <gap:splash src="C://Users/medicolamora/Desktop/Franklin/HilseaMora/images/screen-ipad-portrait.png"      gap:platform="ios"     width="768" height="1024" />
-    <gap:splash src="C://Users/medicolamora/Desktop/Franklin/HilseaMora/images/screen-ipad-landscape.png"     gap:platform="ios"     width="1024" height="768" />
+
     <gap:splash src="C://Users/medicolamora/Desktop/Franklin/HilseaMora/images/screen-portrait.jpg" gap:platform="winphone" />
 
     <!--
