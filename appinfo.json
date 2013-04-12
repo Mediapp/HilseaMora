@@ -1,0 +1,9 @@
+{
+    "title":    "MoraMed",
+    "type":     "web",
+    "main":     "index.html",
+    "id":       "com.dysan.MoraMed",
+    "version":  "1.0.0",
+    "icon":     "icon.png",
+    "uiRevision": "2",
+}
